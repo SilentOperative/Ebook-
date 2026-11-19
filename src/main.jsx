@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { ArrowDownToLine, ArrowLeft, ArrowRight, BookOpen, Check, ChevronDown, Clipboard, ExternalLink, Grid2X2, HelpCircle, LibraryBig, List, Menu, Moon, Newspaper, Search, Send, Sun, Tag, Wrench, X } from 'lucide-react';
 import './styles.css';
+import extraBooks from './catalog.js';
 
 const coverImages = {
   social: 'https://sqp.nexttoppers.in/cdn/shop/files/imgi_124_81EIdWP9ohL._SL1500.jpg?v=1791305083',
@@ -16,7 +17,7 @@ const coverImages = {
   blackbook: 'https://m.media-amazon.com/images/I/91JLYxqHr+L._AC_UF1000,1000_QL80_.jpg',
   periodic: 'https://images.unsplash.com/photo-1532634922-8fe0b757fb13?w=800&q=80'
 };
-const books = [
+const seedBooks = [
   {id:1, grade:'10', subject:'Social Science', title:'Nexttoppers Social Science 16 SQP 2027 10th Full Book', publisher:'Nexttoppers (@cbsebooks10th)', tags:['16 Mocks','Full Book','2027 Edition'], image:coverImages.social, download:'https://instantlinks.co/0QXq1y', badge:'NEW', guide:true},
   {id:2, grade:'10', subject:'English', title:'Nexttoppers English 16 SQP 2027 10th Full Book', publisher:'Nexttoppers (@cbsebooks10th)', tags:['16 Mocks','Full Book','2027 Edition'], image:coverImages.english, download:'https://instantlinks.co/AgmOB7W1', badge:'NEW', guide:true},
   {id:3, grade:'10', subject:'Social Science', title:'Next Topper SST Mind Maps Only Latest 2027 SQP', publisher:'Nexttoppers (@cbsebooks10th)', tags:['Mind Maps Only','Latest 2027 SQP','TeraBox'], image:coverImages.social, download:'https://terabox.com/s/1J8uPvVkxbxWXBJcWYXh_HA', backup:'https://www.1024tera.com/sharing/link?surl=J8uPvVkxbxWXBJcWYXh_HA', badge:'TRENDING'},
@@ -30,6 +31,7 @@ const books = [
   {id:11, grade:'12', subject:'Mathematics', title:'Black Book for JEE Mains & Advanced', publisher:'Vikas Gupta & Pankaj Joshi', tags:['Mains','Advanced','Problem Bank'], image:coverImages.blackbook, download:'https://lksfy.com/uM1gP9T', badge:'CLASSIC'},
   {id:12, grade:'12', subject:'Chemistry', title:'MS Chauhan — Advanced Problems in Organic Chemistry', publisher:'Classic Reference', tags:['Organic','Advanced','JEE/NEET'], image:coverImages.educartScience, download:'https://lksfy.com/msjeeneet', badge:'CLASSIC'}
 ];
+const books = [...seedBooks, ...extraBooks];
 const tools = [
   {name:'Pomotask', category:'Focus & Productivity', title:'A beautiful way to get more done', copy:'A free browser-based dashboard for timers, tasks, music and ambient worlds — all in one place.', href:'https://pomotask.site', image:'https://ebooksofficial.vercel.app/assets/tool-pomotask-BsNQzYAW.webp'},
   {name:'PreReq Map', category:'Study Planning', title:'Stop studying blind. Master your prerequisites.', copy:'Visualise Class 11 → 12 topic dependencies with an algorithmic prerequisite map.', href:'https://class11to12.vercel.app/', image:'https://ebooksofficial.vercel.app/assets/tool-prereqmap-CC2Y347M.webp'},
