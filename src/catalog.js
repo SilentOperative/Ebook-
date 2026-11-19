@@ -2338,6 +2338,1501 @@ const extraBooks = [
     ],
     "image": "https://www.jiomart.com/images/product/original/rvzhvy5tsd/mtg-objective-ncert-at-your-fingertips-pcb-combo_mtg-editorial-board_paperback_3136-product-images-orvzhvy5tsd-p599835397-0-202303251952.jpg?im=Resize=(1000,1000)",
     "download": "https://t.me/ebooksfilestorebot?start=BQADAQADoQsAAs7R8UXVFLIhXPyhWRYE"
+  },
+  {
+    "id": "extra_181",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "MTG Physics Reference Guide (NEET)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71FP3+QjXKL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://arolinks.com/phys178"
+  },
+  {
+    "id": "extra_182",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "Arihant Handbook — Physics, Chem, Maths",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/31o3BAeNq-L._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/C2fHQ"
+  },
+  {
+    "id": "extra_183",
+    "grade": "10",
+    "subject": "Biology",
+    "title": "Unacademy Modules — JEE & NEET",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://static.thearcweb.com/images/PROD/PROD-68887db1-1cfd-4506-948d-97bdad084ead.png?w=96&q=75",
+    "download": "https://lksfy.com/eBd31c4THs"
+  },
+  {
+    "id": "extra_184",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "PW 8 Years JEE Main PYQs – Physics, Chemistry & Maths (2019–2026)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://static.pw.live/5eb393ee95fab7468a79d189/PW_STORE/b5f39aff-cb1a-430c-8097-b625a2a14f25.png",
+    "download": "https://arolinks.com/phy-pw-years"
+  },
+  {
+    "id": "extra_185",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "DISHA NEET 39 Years PYQs – Physics, Chemistry & Biology 1988-2026",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://dishapublication.com/cdn/shop/files/39_YE_NEET_Free_Kit_d385966d-d0e5-4622-b29c-beda27b600c7.jpg?v=1782209424",
+    "download": "https://arolinks.com/phy-disha-neet"
+  },
+  {
+    "id": "extra_186",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "Disha 43 Years JEE PYQ (Physics, Chem, Maths)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9zimgEs6bAgSEjNr93oaRp9_7zRp81Ti5FqxKdjzd0PA0JTIRxcctQijqoHfe9cNXlMPzHN-uUB1ajiddDj4_6aCO4-4UqQeZZxUpRrM&usqp=CAE",
+    "download": "https://lksfy.com/PvMgF6PLU"
+  },
+  {
+    "id": "extra_187",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "Disha 36 Years NEET PYQ (Physics, Chem, Biology)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/c/v/p/errorless-36-previous-years-nta-neet-ug-biology-chapter-wise-original-imahymzz2nbvrfg4.jpeg?q=20&crop=false",
+    "download": "https://lksfy.com/Fml7s8fp"
+  },
+  {
+    "id": "extra_188",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "MTG 19 Years JEE PYQ",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/41VzbvXlfnL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/mr5ygyAv"
+  },
+  {
+    "id": "extra_189",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "MTG 37 Years NEET PYQ (Physics, Chem, Biology)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtVsEptYSnArAAeQIZlu9kpQ7wpjX7UPLfLA&s",
+    "download": "https://lksfy.com/3jpeGYvK"
+  },
+  {
+    "id": "extra_190",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "PW JEE 6 Years PYQ",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/611OTxKB87L._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/ffIDs0b"
+  },
+  {
+    "id": "extra_191",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "48 + 24 Years JEE PYQ (Physics, Chem, Maths)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqBQPkE4YuYljDD9tcL593KB97hZiSv0DwaLZcY0gliXtO32gJO3Sos37iTPIpCTJ2iAMFfs6q9tuRp1vNYWnHhQzmULs0t08k2ZEehhZmvMhq5aLMIluf",
+    "download": "https://lksfy.com/48plus24"
+  },
+  {
+    "id": "extra_192",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "Disha 20 Years JEE Mains PYQ",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71PpgPqecZS._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/jmpyqdish20"
+  },
+  {
+    "id": "extra_193",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "Pedablu 7 Year JEE Mains PYQ — Physics, Chem, Maths (2025-26)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/710307f5-9911-4f4d-9f23-8b46845700d5.png",
+    "download": "https://lksfy.com/7year"
+  },
+  {
+    "id": "extra_194",
+    "grade": "10",
+    "subject": "Mathematics",
+    "title": "Top 500 JEE Main PYQ's — MathonGo",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://i.redd.it/are-these-top-500-pyqs-enough-by-mathongo-v0-ah20ut3dx1mg1.png?width=423&format=png&auto=webp&s=43bbb31c1d20367766183836606d72d0f1d4a85a",
+    "download": "https://arolinks.com/top914"
+  },
+  {
+    "id": "extra_195",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "PW JEE Main Rankers Test Series 2026",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://static.pw.live/5eb393ee95fab7468a79d189/PW_STORE/6a592ea1-d92b-42db-8437-1d6376317875.png",
+    "download": "https://arolinks.com/pw-jee"
+  },
+  {
+    "id": "extra_196",
+    "grade": "10",
+    "subject": "Biology",
+    "title": "PW NEET Rankers Test Series 2026",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://static.pw.live/5eb393ee95fab7468a79d189/PW_STORE/25127548-275e-4974-93b7-adc4b697bd74.png",
+    "download": "https://arolinks.com/pw-neet"
+  },
+  {
+    "id": "extra_197",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "AIR Batch PW Test Series — JEE",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://i.ibb.co/zHsRVzpR/image.png",
+    "download": "https://arolinks.com/air309"
+  },
+  {
+    "id": "extra_198",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "Allen Test Series 2026 — JEE",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://i.ibb.co/v6yW8nFB/image.png",
+    "download": "https://arolinks.com/alle971"
+  },
+  {
+    "id": "extra_199",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "Vidyamandir Test Series — JEE",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://i.ibb.co/S4jtxCYK/image.png",
+    "download": "https://arolinks.com/vidy571"
+  },
+  {
+    "id": "extra_200",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "PW Test Series — JEE",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://i.ibb.co/Xr0x5xYy/image.png",
+    "download": "https://arolinks.com/pwtes661"
+  },
+  {
+    "id": "extra_201",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "Fitjee Test Series — JEE",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://www.studybuddystore.com/cdn/shop/files/fiitjeetestserieslatest.png?v=1762267064",
+    "download": "https://arolinks.com/fitj940"
+  },
+  {
+    "id": "extra_202",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "All Allen Tests for JEE",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://yt3.googleusercontent.com/eYL1nv41lFYd7d49CW9VwIutXmWTJueXlf7d8-qUgwsNQVRwNK_nsq-UUuUkOvLxnJOEird9AWk=s900-c-k-c0x00ffffff-no-rj",
+    "download": "https://arolinks.com/all112"
+  },
+  {
+    "id": "extra_203",
+    "grade": "10",
+    "subject": "Mathematics",
+    "title": "MathonGo Test Series — JEE",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://i.ibb.co/zWpWdYt4/image.png",
+    "download": "https://arolinks.com/math716"
+  },
+  {
+    "id": "extra_204",
+    "grade": "10",
+    "subject": "Biology",
+    "title": "JEE + NEET Test Series 2026 — Allen",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://images.seeklogo.com/logo-png/48/2/allen-career-institute-logo-png_seeklogo-482569.png",
+    "download": "https://instantlinks.co/jts2026"
+  },
+  {
+    "id": "extra_205",
+    "grade": "11",
+    "subject": "Physics",
+    "title": "Oswaal Question Bank — Maths, Physics, English (11th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/81dN26yO1sL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/qb"
+  },
+  {
+    "id": "extra_206",
+    "grade": "10",
+    "subject": "Chemistry",
+    "title": "Xam Idea — English, Biology, Chemistry",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRalwFsz7eYd43g3G85BnK2BMZNRhEjftrrg&s",
+    "download": "https://lksfy.com/L45Tvo"
+  },
+  {
+    "id": "extra_207",
+    "grade": "11",
+    "subject": "Reference",
+    "title": "Sumita Arora — Computer Science (11th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71vWA6Hp56L._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/sumitaroracs11th"
+  },
+  {
+    "id": "extra_208",
+    "grade": "11",
+    "subject": "Reference",
+    "title": "Zaki Saudagar Notes — Physical Education (11th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://imgproxy.fourthwall.com/BFlyfHYr1Udie3I7FTV3cSETlHcpbbtIMkza3vIr6-w/w:1920/sm:1/enc/ofznjukZnn8OPY8q/kDNwkykfBSqBqoP6/3ulpzmb3R869nvXa/m8cAhnz-UEvX-rEa/dLW4ZjWMIyw4rx3X/2ZYH0yz0prdlINJt/fV1G0WT4OoqPJoOr/7nwZ4AmX1SSqZHku/9ecx2C_ASMLnnXMz/kqvD3JwUjnULN8DP/Dak3j2AjtykZc4H5/ChA-ITU7YyxKZkdZ/w4YFuIDvdCX-NNu-/SkWCrQ",
+    "download": "https://lksfy.com/zaki11thpe"
+  },
+  {
+    "id": "extra_209",
+    "grade": "11",
+    "subject": "Reference",
+    "title": "Sandeep Garg Economics — Class 11th (Microeconomics & Stats)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/615na9-wy-L._SL1500_.jpg",
+    "download": "https://arolinks.com/c11-sande-garg"
+  },
+  {
+    "id": "extra_210",
+    "grade": "10",
+    "subject": "Mathematics",
+    "title": "RD Sharma — Applied Maths (Commerce)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/A1W+4Lidf0L._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/WZgZkLI"
+  },
+  {
+    "id": "extra_211",
+    "grade": "11",
+    "subject": "Mathematics",
+    "title": "RD Sharma — Applied Maths (11th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/A1k5AETP5XL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/I56NFeyP3"
+  },
+  {
+    "id": "extra_212",
+    "grade": "11",
+    "subject": "Reference",
+    "title": "Poonam Gandhi — Business Studies (11th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/61TaakUruLL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://t.me/ebooksfilestorebot?start=BQADAQADKRQAAgFtyEYBV2g-2XrbfxYE"
+  },
+  {
+    "id": "extra_213",
+    "grade": "11",
+    "subject": "Reference",
+    "title": "TR Jain — Macroeconomics (11th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/61hM2+ypTVL.jpg",
+    "download": "https://t.me/ebooksfilestorebot?start=BQADAQADaSgAAiQsuEZ8bdJLtdCxlBYE"
+  },
+  {
+    "id": "extra_214",
+    "grade": "11",
+    "subject": "Reference",
+    "title": "TS Grewal — Accountancy (11th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71WUX6xodpL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/ts11th"
+  },
+  {
+    "id": "extra_215",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "NDA Pathfinder",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/81NcNMcoDCL.jpg",
+    "download": "https://lksfy.com/ndapathfinder"
+  },
+  {
+    "id": "extra_216",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "NDA Pathfinder (2021 Edition)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/81NcNMcoDCL.jpg",
+    "download": "https://arolinks.com/pathfinder-nda-4o3"
+  },
+  {
+    "id": "extra_217",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "PW Shaurya Module — NDA",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://static.pw.live/5eb393ee95fab7468a79d189/f5619a30-2853-4242-8559-5d5e3f114169.jpeg",
+    "download": "https://lksfy.com/pwshauryamodule"
+  },
+  {
+    "id": "extra_218",
+    "grade": "10",
+    "subject": "Mathematics",
+    "title": "NDA Super 30 Notes — Maths by Arpit Sir",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://i.ibb.co/N0THb3B/photo-2026-07-09-15-44-38.jpg",
+    "download": "https://arolinks.com/super30"
+  },
+  {
+    "id": "extra_219",
+    "grade": "10",
+    "subject": "English",
+    "title": "Sanjeev Sir English Books — NDA",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://i.ibb.co/0pbN7RTN/image.png",
+    "download": "https://arolinks.com/sanjeev-sir-book-48u"
+  },
+  {
+    "id": "extra_220",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "FNS Ajay Singh — Short Handwritten Notes (JEE)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://imgv2-1-f.scribdassets.com/img/document/907007264/original/37e1076104/1?v=1",
+    "download": "https://lksfy.com/notes"
+  },
+  {
+    "id": "extra_221",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Ajay Singh Short Notes (11th + 12th) — Terabox",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://yt3.googleusercontent.com/0L9HreJLoOBjlcymiTLZMzZjYq6eKyGVggGjeUIsaYy7MKFVPSypgmgi3CpjrDnhlvvTKfj3jg=s900-c-k-c0x00ffffff-no-rj",
+    "download": "https://1024terabox.com/s/1ZKh5V-CfS8UzhsrRonrJ-Q"
+  },
+  {
+    "id": "extra_222",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "Physics & Chemistry Short Notes — JEE Topper",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://website-assets.studocu.com/img/document_thumbnails/db243e7a64d6195d1619392f3393f158/thumb_1200_1696.png",
+    "download": "https://arolinks.com/phys798"
+  },
+  {
+    "id": "extra_223",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "JEE CRUX — Complete Revision",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://appxcontent.securevideo.in/paid_course3/2024-09-28-0.147832364404759.jpg",
+    "download": "https://lksfy.com/crux"
+  },
+  {
+    "id": "extra_224",
+    "grade": "11",
+    "subject": "Reference",
+    "title": "Padhle Akshay — 199 Days Challenge (Class 11)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://screenshots.scribd.com/Scribd/252_100_85/356/746053140/1.jpeg",
+    "download": "https://t.me/ebooksfilestorebot?start=BQADAQAD6QcAAnAk4EWV02uJc3RjfxYE"
+  },
+  {
+    "id": "extra_225",
+    "grade": "12",
+    "subject": "Biology",
+    "title": "PW Class 12 Biology QCB — 2027 Boards | 2027 Edition",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://universalbooksellers.com/wp-content/uploads/2026/06/0000-2.png",
+    "download": "https://arolinks.com/lass-iology"
+  },
+  {
+    "id": "extra_226",
+    "grade": "10",
+    "subject": "Physics",
+    "title": "Lakshya JEE Latest 2027 Modules All Parts PCM (Physics, Chemistry, Maths)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/61WPaftK97L._SL1001_.jpg",
+    "download": "https://arolinks.com/laksh-jee"
+  },
+  {
+    "id": "extra_227",
+    "grade": "10",
+    "subject": "Biology",
+    "title": "PW Yakeen NEET Modules 2027 Latest Edition",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://static.pw.live/5eb393ee95fab7468a79d189/PW_STORE/eef9a1f0-8e18-4dc6-a2da-e6ee90036039.png",
+    "download": "https://arolinks.com/pw-yakeen"
+  },
+  {
+    "id": "extra_228",
+    "grade": "12",
+    "subject": "Mathematics",
+    "title": "Sachin Sir Maths EaJEE — Class 12 JEE",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://static.pw.live/c346de2e-b497-442b-bada-93af88094327.png",
+    "download": "https://arolinks.com/sach394"
+  },
+  {
+    "id": "extra_229",
+    "grade": "12",
+    "subject": "Mathematics",
+    "title": "Class 12 Math EaJEE Notes By Tarun Sir",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/book/g/e/1/pw-eajee-handwritten-notes-for-mathematics-class-12-jee-main-original-imahk6bbhgnu6bfb.jpeg?q=70",
+    "download": "https://lksfy.com/tkdon12th"
+  },
+  {
+    "id": "extra_230",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "PW The Catalyst — Physics (12th) by Gagan Sir & Rajwant Sir",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/42a47cb7-5654-42a1-a556-1ed1188bde7f.png",
+    "download": "https://lksfy.com/catalystphysics"
+  },
+  {
+    "id": "extra_231",
+    "grade": "12",
+    "subject": "Chemistry",
+    "title": "PW The Catalyst — Chemistry (12th) by Om Pandey",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/61TfF3SsMjL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/catalystchem"
+  },
+  {
+    "id": "extra_232",
+    "grade": "12",
+    "subject": "Mathematics",
+    "title": "PW The Catalyst — Mathematics (12th) by Ritik Sir & Harish Sir",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/61PlbCPLcDL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/catalystmath"
+  },
+  {
+    "id": "extra_233",
+    "grade": "12",
+    "subject": "Biology",
+    "title": "PW The Catalyst — Biology (12th) by Samapti Mam & Yashika Mam",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://static.pw.live/5eb393ee95fab7468a79d189/PW_STORE/827169ec-ebab-4e49-8ec0-1cb328894679.png",
+    "download": "https://lksfy.com/catalystbio"
+  },
+  {
+    "id": "extra_234",
+    "grade": "12",
+    "subject": "Chemistry",
+    "title": "PW Question Bank — Chemistry, English & Maths (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/436424a4-0346-4003-a84e-fa74c7789062.png",
+    "download": "https://lksfy.com/Z7ZmTPbI"
+  },
+  {
+    "id": "extra_235",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "SKC Physics Crush By Saleen Sir (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4033523b-1245-4006-8d79-85cf304fab0d.png",
+    "download": "https://lksfy.com/skc12th"
+  },
+  {
+    "id": "extra_236",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Oswaal Question Bank — Physics, Chem, Maths (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71D6zTEh9CL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/oswalpcm12th"
+  },
+  {
+    "id": "extra_237",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Oswaal Question Bank — Physics, Chem, Biology (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/91fXSgin5XL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/oswalpcb12th"
+  },
+  {
+    "id": "extra_238",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Oswaal Physics Xcellence 95+ (12th) by Abhishek Sahu",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/81Do351ZwQL.jpg",
+    "download": "https://lksfy.com/osphysicsexclence12th"
+  },
+  {
+    "id": "extra_239",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Oswaal Solved Papers 2025 (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://cdn-ginkf.nitrocdn.com/XDPVXDvZHEdvxVEWyArPEDwSYjHlIaQK/assets/images/optimized/rev-46b5d8f/oswalpublishers.com/wp-content/uploads/2022/07/CBSE-Class-XII-10-Years-Solved-Papers-Humanities-Stream-01.webp",
+    "download": "https://lksfy.com/oswalsolvedpapers"
+  },
+  {
+    "id": "extra_240",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Oswaal Physical Education (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/81P40mwqQVL.jpg",
+    "download": "https://lksfy.com/oswaalpe12th"
+  },
+  {
+    "id": "extra_241",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Oswaal Physics, Chem, Maths, English & Hindi Sample Paper 12th (2025-2026)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://www.crossword.in/cdn/shop/files/9789373012438.png?v=1760768750",
+    "download": "https://arolinks.com/phy-oswaal-chem"
+  },
+  {
+    "id": "extra_242",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Educart Physics Sample Paper 2025-2026 — Class 12th",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://www.onetouchbook.com/cdn/shop/files/rn-image_picker_lib_temp_4509c0b9-53b4-4175-8994-56dc48cf954c.jpg?v=1758440780&width=1445",
+    "download": "https://arolinks.com/phy-educa"
+  },
+  {
+    "id": "extra_243",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Educart Physical Education Sample Paper 2025-2026 — Class 12th",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/81NvaKFoTvL._SL1500_.jpg",
+    "download": "https://arolinks.com/c12-educa-physi"
+  },
+  {
+    "id": "extra_244",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Arihant iSucceed SQP — Physics, Chem, Maths, CS (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/book/h/k/r/-original-imahkyjfhrhgyjzc.jpeg?q=70",
+    "download": "https://lksfy.com/arihantisucced12thpcmcs"
+  },
+  {
+    "id": "extra_245",
+    "grade": "12",
+    "subject": "Chemistry",
+    "title": "Together with — Maths & Chem 35+ Sample Papers (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/book/f/w/u/together-with-35-cbse-sample-papers-class-12-chemistry-for-2026-original-imahesqm7w7zsvzy.jpeg?q=70",
+    "download": "https://lksfy.com/together3512th"
+  },
+  {
+    "id": "extra_246",
+    "grade": "12",
+    "subject": "Chemistry",
+    "title": "Educart Sample Question Papers — Maths, English, Chem (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://cdn.prod.website-files.com/5f5cf4627107791c0412287b/66ff8fd813241af36e708c48_file%20(3).webp",
+    "download": "https://lksfy.com/eduspq12th"
+  },
+  {
+    "id": "extra_247",
+    "grade": "12",
+    "subject": "Mathematics",
+    "title": "RD Sharma — Class 12 Maths",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/91Gb3OCDHBL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/rd12th"
+  },
+  {
+    "id": "extra_248",
+    "grade": "12",
+    "subject": "Mathematics",
+    "title": "RS Aggarwal — Class 12 Maths",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71XNw5ICsCL.jpg",
+    "download": "https://lksfy.com/rs12th"
+  },
+  {
+    "id": "extra_249",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "SL Arora — Physics Class 12",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://cdn01.sapnaonline.com/product_media/9788177002218/md_9788177002218_300720241137584.jpg",
+    "download": "https://lksfy.com/12UHV"
+  },
+  {
+    "id": "extra_250",
+    "grade": "12",
+    "subject": "Mathematics",
+    "title": "Calculus Core — Class 12 Maths",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/51M5MF-RGpL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/calculuscore"
+  },
+  {
+    "id": "extra_251",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Arihant All In One — Physics, Chem, Maths, English Core (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71yAGjQ03qL.jpg",
+    "download": "https://lksfy.com/allinone12th"
+  },
+  {
+    "id": "extra_252",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Padhle Akshay 199 Pages — Physics, Chem, Maths, Bio (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://framerusercontent.com/images/8MEI5d0KWSF8IvU8oSMzn2DIJXc.png?width=2560&height=1440",
+    "download": "https://lksfy.com/19912th"
+  },
+  {
+    "id": "extra_253",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Sumita Arora — Computer Science (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/61+OG-OYNVL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/sumitaroracs12th"
+  },
+  {
+    "id": "extra_254",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Zaki Saudagar Notes — Physical Education (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://imgproxy.fourthwall.com/fEUDvgpeLD3mz6pwyAso8IMAPwk0IvZhVtEoMR8l6uQ/w:1920/sm:1/enc/FaUZ_Q1bshlqz9vN/bNBbpoN6PpnX_2QW/A0gWgcY5XxLNsJLU/6E96ikOVdSPYPUbz/TGoUZfpIplHMNqtt/mw8MayIbG1LCiOCX/IAQBjP01a5OMslUn/Qd5y1jOqAzHAv8oK/gNqXEeaSSP-kbEjb/lngfKRcoHPNL2a1B/FShrq4IOrR-XJKke/UjhxEfYI3dLSHuWk/oljmEc58Nirp1kiv/MLYw8w",
+    "download": "https://lksfy.com/zaki12thpe"
+  },
+  {
+    "id": "extra_255",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Lakshya JEE 2027 Modules PW Part 1 — Physics, Chem, Maths (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://static.pw.live/5eb393ee95fab7468a79d189/PW_STORE/b22cd150-7adf-44f8-b61c-234a150dcbf8.png",
+    "download": "https://lksfy.com/lakshay2027part1"
+  },
+  {
+    "id": "extra_256",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Winr Series 12th — Maths, Physics, Chemistry",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/816QeNiFatL.jpg",
+    "download": "https://arolinks.com/winner"
+  },
+  {
+    "id": "extra_257",
+    "grade": "12",
+    "subject": "Biology",
+    "title": "Masterclass in Biology for NEET — Class 12 (NEETPrep)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://shop.neetprep.com/cdn/shop/files/81jUg2Fja3L._SL1500.jpg?v=1707725462&width=533",
+    "download": "https://arolinks.com/masterclass-286"
+  },
+  {
+    "id": "extra_258",
+    "grade": "12",
+    "subject": "Biology",
+    "title": "Motion NCERT Pagewise Practice — Biology 12th",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://motionedustore.com/cdn/shop/files/class_12_BIO.jpg?v=1742976318&width=1445",
+    "download": "https://lksfy.com/ncetpgwise12thbio"
+  },
+  {
+    "id": "extra_259",
+    "grade": "12",
+    "subject": "Physics",
+    "title": "Motion NCERT Pagewise Practice — Physics 12th (Vol 1 + Vol 2)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://motionedustore.com/cdn/shop/files/class_11_chemistry.png?v=1743147881",
+    "download": "https://lksfy.com/ncetpgwise12thphy"
+  },
+  {
+    "id": "extra_260",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Economics Class 12 Cheat Sheets & Quick Revision Notes",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/cheat-sheet-economics-12.jpg",
+    "download": "https://drive.google.com/drive/folders/1Xb7ti6wvHNacsSmp69nW7qSpe2EDjQ0I?usp=drive_link"
+  },
+  {
+    "id": "extra_261",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "All Subjects Sample Papers for Commerce and Humanities — Class 12",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/sqp-commerce-humanities-12.jpg",
+    "download": "https://drive.google.com/drive/folders/1fNGnGUekw4PV1U8S6SEi7YtEZ3TxZWS-"
+  },
+  {
+    "id": "extra_262",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "TS Grewal Accountancy Class 12th — All 3 Volumes Combined",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://rukminim2.flixcart.com/image/1280/1280/xif0q/regionalbooks/b/w/1/accounting-ts-grewal-class-12th-3-books-resized-original-imahjv7uprgvvpfv.jpeg?q=90",
+    "download": "https://arolinks.com/c12-ts-grewal"
+  },
+  {
+    "id": "extra_263",
+    "grade": "12",
+    "subject": "Mathematics",
+    "title": "ML Aggarwal — Applied Maths (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71ZbtXzMP6L.jpg",
+    "download": "https://lksfy.com/17GCpn"
+  },
+  {
+    "id": "extra_264",
+    "grade": "10",
+    "subject": "Reference",
+    "title": "DK Goel — Accountancy & Financial Statements",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/61x9kFg55kL._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/dkgoelaccounty"
+  },
+  {
+    "id": "extra_265",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Sandeep Garg — Macroeconomics (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://sandeepgargbooks.com/wp-content/uploads/2024/12/XII-Macro-Front-Cover-Page-1-768x1015.jpg",
+    "download": "https://lksfy.com/sandeep12th"
+  },
+  {
+    "id": "extra_266",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Poonam Gandhi — BST (12th)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71Zzqsh612L._AC_UF1000,1000_QL80_.jpg",
+    "download": "https://lksfy.com/poonam12th"
+  },
+  {
+    "id": "extra_267",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Rajat Arora Macroeconomics, BST & Economics Full Notes — Class 12th",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://i.ytimg.com/vi/jOZ1VU1xBFs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBThotG_tLBhzE8guU5xhusUFyggw",
+    "download": "https://arolinks.com/eco-rajat-arora"
+  },
+  {
+    "id": "extra_268",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Rajat Arora Physical Education Notes — Class 12th",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "https://media.licdn.com/dms/image/v2/D4D22AQHJoN9qkFq5vg/feedshare-shrink_800/feedshare-shrink_800/0/1697689755589?e=2147483647&v=beta&t=HnekPKVdgQ9NHCOYuvYpreqSiUIBmHWei_hxQlJI10U",
+    "download": "https://arolinks.com/c12-rajat-arora"
+  },
+  {
+    "id": "extra_269",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Political Science Class 12 Cheat Sheets & Quick Revision Notes",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/cheat-sheet-pol-science-12.jpg",
+    "download": "https://drive.google.com/drive/folders/1bH4VRNC4t-TFimc69uKbDVmz57Liuik6?usp=drive_link"
+  },
+  {
+    "id": "extra_270",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "Geography Class 12 Cheat Sheets & Quick Revision Notes",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/cheat-sheet-geography-12.jpg",
+    "download": "https://drive.google.com/drive/folders/1bCi5vzyxJaiu5foM6h77AP_a0kpLfiWX?usp=drive_link"
+  },
+  {
+    "id": "extra_271",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "History Class 12 Cheat Sheets & Quick Revision Notes",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/cheat-sheet-history-12.jpg",
+    "download": "https://drive.google.com/drive/folders/1bB01AxphTezhaBT19JnwsTHCQiKIIyT4?usp=drive_link"
+  },
+  {
+    "id": "extra_272",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Computer Science Class 12 Cheat Sheets & Quick Revision Notes",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/cheat-sheet-computer-science-12.jpg",
+    "download": "https://drive.google.com/drive/folders/1b7OVlP8Xtuv4aC47WrnBhF9B5WMRNgkR?usp=drive_link"
+  },
+  {
+    "id": "extra_273",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Sociology Class 12 Cheat Sheets & Quick Revision Notes",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/cheat-sheet-sociology-12.jpg",
+    "download": "https://drive.google.com/drive/folders/1DfWmhGc14xQgmRgPK9JIkQAdFqBDXsyu?usp=sharing"
+  },
+  {
+    "id": "extra_274",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Every Single MCQ of Political Science Class 12th (2022-2025 & 2025 Sample Sets)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/pol-science-mcq-2025.jpg",
+    "download": "https://arolinks.com/pol-every"
+  },
+  {
+    "id": "extra_275",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Political Science Class 12 PYQs (2019-2024)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/pol-science-pyq-2019-2024.jpg",
+    "download": "https://arolinks.com/pol-pyq-s"
+  },
+  {
+    "id": "extra_276",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Political Science Class 12 Flow Charts & Visual Mindmaps",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/pol-science-flow-charts.jpg",
+    "download": "https://arolinks.com/pol-flow-charts"
+  },
+  {
+    "id": "extra_277",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "12th Political Science Important Topics of Book 2 (Indian Politics)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/pol-science-book2-indian-politics.jpg",
+    "download": "https://arolinks.com/c12-12th-pol-849"
+  },
+  {
+    "id": "extra_278",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "12th Political Science Important Topics of Book 1 (World Politics)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/pol-science-book1-world-politics.jpg",
+    "download": "https://arolinks.com/c12-12th-pol"
+  },
+  {
+    "id": "extra_279",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "All Cartoon Questions from Previous Year Papers – Political Science Class 12",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/pol-science-cartoon-questions.jpg",
+    "download": "https://arolinks.com/pol-carto-quest"
+  },
+  {
+    "id": "extra_280",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Political Science Handwritten Notes for Boards & CUET Class 12",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/pol-science-handwritten-notes.jpg",
+    "download": "https://arolinks.com/pol-handw"
+  },
+  {
+    "id": "extra_281",
+    "grade": "12",
+    "subject": "Reference",
+    "title": "Class 12 Political Science PYQ Handbook 2026",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/pol-science-pyq-handbook-2026.jpg",
+    "download": "https://arolinks.com/pol-pyq"
+  },
+  {
+    "id": "extra_282",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "Geography 12th Kendriya Vidyalaya (KV) Support Material",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/geography-kv-support-material.jpg",
+    "download": "https://drive.google.com/file/d/118RW86iU5DK8xxBHBS6laLTLvj9pbv2n/view?usp=drivesdk"
+  },
+  {
+    "id": "extra_283",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "Every Single MCQ of Geography Class 12th (2022-2025 & 2026 Sample Sets)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/geography-mcq-2026.jpg",
+    "download": "https://arolinks.com/geo-every"
+  },
+  {
+    "id": "extra_284",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "Geography Mnemonics & Memory Hacks — Class 12",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/geography-mnemonics.jpg",
+    "download": "https://arolinks.com/geo-mnemo"
+  },
+  {
+    "id": "extra_285",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "Class 12 Geography Chapter-wise MCQs Handbook",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/geography-chapterwise-mcq.jpg",
+    "download": "https://arolinks.com/geo-wise-mcqs"
+  },
+  {
+    "id": "extra_286",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "Class 12 CBSE Geography Maps & Identification Handbook",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/geography-cbse-maps.jpg",
+    "download": "https://arolinks.com/geo-maps"
+  },
+  {
+    "id": "extra_287",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "Geography Class 12 Imp Topics (Chapter-wise) for Most Demanded Chapters",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/geography-imp-topics.jpg",
+    "download": "https://arolinks.com/geo-imp-topics"
+  },
+  {
+    "id": "extra_288",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "12th Geography Map Work & Practice Exercises",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/geography-12th-map-work.jpg",
+    "download": "https://arolinks.com/geo-12th-map"
+  },
+  {
+    "id": "extra_289",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "History 12th Mapworks & Archeological Sites Guide",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/history-12th-mapworks.jpg",
+    "download": "https://arolinks.com/hist-12th-mapwo"
+  },
+  {
+    "id": "extra_290",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "History Class 12 Key Diagrams, Artefacts & Architectural Visuals",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/history-diagrams.jpg",
+    "download": "https://arolinks.com/hist-diagr"
+  },
+  {
+    "id": "extra_291",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "12th History All Previous Years Picture-Based Questions (PYQs)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/history-picture-questions.jpg",
+    "download": "https://arolinks.com/hist-12th-previ"
+  },
+  {
+    "id": "extra_292",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "Class 12 History Last 5 Years Solved PYQs (2020-2025)",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/history-pyq-last-5-years.svg",
+    "download": "https://arolinks.com/hist-last-years"
+  },
+  {
+    "id": "extra_293",
+    "grade": "12",
+    "subject": "Social Science",
+    "title": "Class 12th History & Political Science Chapter-wise Timelines & Chronology Guide",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/history-pol-timelines.jpg",
+    "download": "https://arolinks.com/hist-12th-wise"
+  },
+  {
+    "id": "extra_294",
+    "grade": "12",
+    "subject": "English",
+    "title": "Class 12th DOE Support Material — English Core, Hindi Elective, Political Science, History, Sociology, PE, Geography, Economics, IT, Marketing & Retail",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/doe-support-material-all-subjects.svg",
+    "download": "https://arolinks.com/eng-12th-doe"
+  },
+  {
+    "id": "extra_295",
+    "grade": "12",
+    "subject": "Hindi",
+    "title": "Class 12 Support Material — Informatics Practices, Computer Science, Marketing, Retail & Hindi Core",
+    "publisher": "EBooksOfficial catalog",
+    "tags": [
+      "Verified PDF",
+      "Free Download"
+    ],
+    "image": "/covers/support-material-vocational-cs.svg",
+    "download": "https://arolinks.com/cs-suppo-infor"
   }
 ];
 export default extraBooks;
